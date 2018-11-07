@@ -185,7 +185,7 @@ function SmartWizard(target, options) {
                 }
             }
         }
-        // zyd 取消动态加载stepContainer高度
+        // houyi 取消动态加载stepContainer高度
         // $this.elmStepContainer.height(_step($this, selStep).outerHeight());
         var prevCurStepIdx = $this.curStepIdx;
         $this.curStepIdx =  stepIdx;

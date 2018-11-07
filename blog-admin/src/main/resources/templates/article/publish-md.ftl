@@ -227,7 +227,7 @@
         zhyd.initMdEditor(op);
         articleId = '${id}';
     </script>
-    <script src="/assets/js/zhyd.publish-article.js"></script>
+    <script src="/assets/js/houyi.publish-article.js"></script>
     <script>
         console.log('init_SmartWizard');
 

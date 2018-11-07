@@ -88,12 +88,12 @@ spring:
         charset: UTF-8
 # MyBatis
 mybatis:
-    type-aliases-package: com.zyd.blog.persistence.beans
+    type-aliases-package: com.houyi.blog.persistence.beans
     mapper-locations: classpath:/mybatis/*.xml
 # mapper
 mapper:
     mappers:
-        - com.zyd.blog.plugin.BaseMapper
+        - com.houyi.blog.plugin.BaseMapper
     not-empty: false
     identity: MYSQL
 # pagehelper

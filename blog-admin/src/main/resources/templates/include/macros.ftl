@@ -22,7 +22,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/zTree.v3/3.5.29/css/metroStyle/metroStyle.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/switchery/0.8.2/switchery.min.css" rel="stylesheet">
 
-    <link href="/assets/css/zhyd.core.css" rel="stylesheet">
+    <link href="/assets/css/houyi.core.css" rel="stylesheet">
     <#nested>
 </head>
 <body class="nav-md">

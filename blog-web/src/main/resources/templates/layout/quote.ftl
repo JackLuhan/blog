@@ -5,5 +5,5 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.1/css/bootstrapValidator.min.css" rel="stylesheet">
-    <link href="${config.staticWebSite}/css/zhyd.core.css" rel="stylesheet" type="text/css">
-    <link href="${config.staticWebSite}/css/zhyd.comment.css" rel="stylesheet" type="text/css">
+    <link href="${config.staticWebSite}/css/houyi.core.css" rel="stylesheet" type="text/css">
+    <link href="${config.staticWebSite}/css/houyi.comment.css" rel="stylesheet" type="text/css">

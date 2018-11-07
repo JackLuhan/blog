@@ -38,7 +38,7 @@
 <script src="/assets/js/validator.js"></script>
 <script src="/assets/js/ajaxfileupload.js"></script>
 <script src="/assets/js/jquery-form.js"></script>
-<script src="/assets/js/zyd.tool.js"></script>
-<script src="/assets/js/zhyd.upload-preview.js"></script>
-<script src="/assets/js/zhyd.core.js"></script>
-<script src="/assets/js/zyd.table.js"></script>
+<script src="/assets/js/houyi.tool.js"></script>
+<script src="/assets/js/houyi.upload-preview.js"></script>
+<script src="/assets/js/houyi.core.js"></script>
+<script src="/assets/js/houyi.table.js"></script>

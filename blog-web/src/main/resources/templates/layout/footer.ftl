@@ -206,6 +206,6 @@
         zfbPraiseCode: '${config.zfbPraiseCode}'
     };
 </script>
-<script type="text/javascript" src="${config.staticWebSite}/js/zhyd.core.js"></script>
-<script type="text/javascript" src="${config.staticWebSite}/js/zhyd.comment.js"></script>
+<script type="text/javascript" src="${config.staticWebSite}/js/houyi.core.js"></script>
+<script type="text/javascript" src="${config.staticWebSite}/js/houyi.comment.js"></script>
 <script type="text/javascript" src="${config.staticWebSite}/js/zhyd.js"></script>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 
-<mapper namespace="com.zyd.blog.persistence.mapper.SysConfigMapper">
-    <resultMap id="rm" type="com.zyd.blog.persistence.beans.SysConfig">
+<mapper namespace="com.houyi.blog.persistence.mapper.SysConfigMapper">
+    <resultMap id="rm" type="com.houyi.blog.persistence.beans.SysConfig">
         <result property="id" jdbcType="INTEGER" column="id"/>
         <result property="homeDesc" jdbcType="VARCHAR" column="home_desc"/>
         <result property="homeKeywords" jdbcType="VARCHAR" column="home_keywords"/>

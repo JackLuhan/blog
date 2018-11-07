@@ -281,7 +281,7 @@
 </div>
 <@footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/4.1.0/echarts.min.js"></script>
-<script src="/assets/js/zhyd.echarts.js"></script>
+<script src="/assets/js/houyi.echarts.js"></script>
 <script>
     init_echarts();
     /*$("#noticeModal").modal('show');*/

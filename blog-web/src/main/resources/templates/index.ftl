@@ -45,7 +45,7 @@
                                 <a href="${config.siteUrl}/article/${item.id?c}">
                                     <img src="${config.qiuniuBasePath}/${item.coverImage}" alt="${item.title}" title="${item.title}">
                                 </a>
-                                <div class="zyd-carousel-caption">${item.title}</div>
+                                <div class="houyi-carousel-caption">${item.title}</div>
                             </div>
                             </#list>
                         </div>
